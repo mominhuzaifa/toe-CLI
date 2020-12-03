@@ -1,3 +1,10 @@
+#!/usr/bin/python3
+
+'''
+Author: Momin Huzaifa
+email: mominhuzaifa@protonmail.ch
+'''
+
 board = [' ' for x in range(10)]
 
 def insertLetter(letter,pos):
